@@ -1,0 +1,12 @@
+[submodule "tcparse"]
+	path = tcparse
+	url = git@github.com:pcdshub/tcparse.git
+[submodule "pytmc"]
+	path = pytmc
+	url = git@github.com:slaclab/pytmc.git
+[submodule "lcls-twincat-motion"]
+	path = lcls-twincat-motion
+	url = https://github.com/pcdshub/lcls-twincat-motion
+[submodule "twincat-ads"]
+	path = twincat-ads
+	url = https://github.com/pcdshub/twincat-ads
