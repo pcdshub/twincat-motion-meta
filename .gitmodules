@@ -10,3 +10,6 @@
 [submodule "twincat-ads"]
 	path = twincat-ads
 	url = ../twincat-ads.git
+[submodule "ads-ioc"]
+	path = ads-ioc
+	url = ../ads-ioc.git
