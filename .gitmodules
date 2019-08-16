@@ -15,4 +15,7 @@
 	url = ../ads-ioc.git
 [submodule "m-epics-ethercatmc"]
 	path = m-epics-ethercatmc
-	url = https://github.com/pcdshub/m-epics-ethercatmc
+	url = ../m-epics-ethercatmc.git
+[submodule "ess-motor"]
+	path = ess-motor
+	url = ../ess-motor.git
