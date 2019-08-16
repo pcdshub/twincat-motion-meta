@@ -6,7 +6,7 @@
 	url = ../../slaclab/pytmc.git
 [submodule "lcls-twincat-motion"]
 	path = lcls-twincat-motion
-	url = ../lcls-twincat-motion
+	url = ../lcls-twincat-motion.git
 [submodule "twincat-ads"]
 	path = twincat-ads
-	url = ../twincat-ads
+	url = ../twincat-ads.git
