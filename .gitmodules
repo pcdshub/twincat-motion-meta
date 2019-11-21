@@ -22,3 +22,6 @@
 [submodule "lcls-twincat-pmps"]
 	path = lcls-twincat-pmps
 	url = ../lcls-twincat-pmps.git
+[submodule "ads-deploy"]
+	path = ads-deploy
+	url = ../ads-deploy.git
