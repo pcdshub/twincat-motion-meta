@@ -19,3 +19,6 @@
 [submodule "lcls-twincat-general"]
 	path = lcls-twincat-general
 	url = ../lcls-twincat-general.git
+[submodule "lcls-twincat-pmps"]
+	path = lcls-twincat-pmps
+	url = ../lcls-twincat-pmps.git
