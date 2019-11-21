@@ -1,6 +1,3 @@
-[submodule "tcparse"]
-	path = tcparse
-	url = ../tcparse.git
 [submodule "pytmc"]
 	path = pytmc
 	url = ../../slaclab/pytmc.git
