@@ -16,3 +16,6 @@
 [submodule "ess-motor"]
 	path = ess-motor
 	url = ../ess-motor.git
+[submodule "lcls-twincat-general"]
+	path = lcls-twincat-general
+	url = ../lcls-twincat-general.git
